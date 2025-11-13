@@ -63,7 +63,7 @@ const Navbar = () => {
               onClick={() => scrollToSection("contact")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              TUYỂN DỤNG
+              TUYỂN DỤNG Long
             </button>
             <Button onClick={() => scrollToSection("contact")} size="sm">
               TESTIMONIALS
